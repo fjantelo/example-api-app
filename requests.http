@@ -1,0 +1,5 @@
+###
+GET https://api.thedogapi.com/v1/breeds?api_key=API-KEY
+
+###
+GET http://localhost:3000/breeds.json
